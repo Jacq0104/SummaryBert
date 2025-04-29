@@ -7,7 +7,7 @@ env.yaml
 3. 驗證：sighan13/14/15_summary.json
 
 ### 步驟
-*需先下載correction bert 的預訓練模型：https://drive.google.com/file/d/1CseJzc58W4s8U_eIuAnshHQmnmi7Sr5-/view?usp=sharing \n
+*需先下載correction bert 的預訓練模型：https://drive.google.com/file/d/1CseJzc58W4s8U_eIuAnshHQmnmi7Sr5-/view?usp=sharing </br>
 **將資料夾放在根目錄下即可
 
 1. 執行 start.py 進行預訓練
